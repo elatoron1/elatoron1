@@ -1,3 +1,9 @@
+# About me
+
+### Hi there 👋
+
+I'm learning GitHub and exploring how to create awesome projects.
+
 - 👋 Hi, I’m Carlos Duarte from Mexico
 - 👀 I’m interested in electronics, for example instrumentation, microcontrollers and FPGAs. 
 - 🌱 I’m currently learning Verilog, ARM and obviously GitHub
